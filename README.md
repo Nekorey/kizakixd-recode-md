@@ -1,2 +1,2 @@
-# Sc ori di ghnya chika ini cmn w edit doang 
+# Script Ori By Gua:v
 # base from rashidsiregar / chika
